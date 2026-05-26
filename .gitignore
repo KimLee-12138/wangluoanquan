@@ -1,0 +1,9 @@
+# Local Claude settings
+.claude/
+
+# Embedded git repo (sasquatch is a fork)
+cve-2019-17621/tools/sasquatch/.git/
+
+# OS files
+.DS_Store
+Thumbs.db
