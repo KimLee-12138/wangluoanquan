@@ -7,3 +7,6 @@ cve-2019-17621/tools/sasquatch/.git/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large external tools
+FirmAE/
